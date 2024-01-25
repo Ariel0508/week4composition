@@ -189,7 +189,4 @@ app.component("delProductModal", {
     };
   },
 });
-
-// // delete modal
-// delProductModal = new bootstrap.Modal('#delProductModal',{keyboard:false})
 app.mount("#app");
